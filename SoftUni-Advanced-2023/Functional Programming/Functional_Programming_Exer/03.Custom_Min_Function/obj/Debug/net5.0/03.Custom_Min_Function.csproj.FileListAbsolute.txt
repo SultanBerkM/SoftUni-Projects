@@ -1,0 +1,16 @@
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\03.Custom_Min_Function\bin\Debug\net5.0\03.Custom_Min_Function.exe
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\03.Custom_Min_Function\bin\Debug\net5.0\03.Custom_Min_Function.deps.json
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\03.Custom_Min_Function\bin\Debug\net5.0\03.Custom_Min_Function.runtimeconfig.json
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\03.Custom_Min_Function\bin\Debug\net5.0\03.Custom_Min_Function.runtimeconfig.dev.json
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\03.Custom_Min_Function\bin\Debug\net5.0\03.Custom_Min_Function.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\03.Custom_Min_Function\bin\Debug\net5.0\ref\03.Custom_Min_Function.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\03.Custom_Min_Function\bin\Debug\net5.0\03.Custom_Min_Function.pdb
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\03.Custom_Min_Function\obj\Debug\net5.0\03.Custom_Min_Function.csproj.AssemblyReference.cache
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\03.Custom_Min_Function\obj\Debug\net5.0\03.Custom_Min_Function.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\03.Custom_Min_Function\obj\Debug\net5.0\03.Custom_Min_Function.AssemblyInfoInputs.cache
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\03.Custom_Min_Function\obj\Debug\net5.0\03.Custom_Min_Function.AssemblyInfo.cs
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\03.Custom_Min_Function\obj\Debug\net5.0\03.Custom_Min_Function.csproj.CoreCompileInputs.cache
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\03.Custom_Min_Function\obj\Debug\net5.0\03.Custom_Min_Function.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\03.Custom_Min_Function\obj\Debug\net5.0\ref\03.Custom_Min_Function.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\03.Custom_Min_Function\obj\Debug\net5.0\03.Custom_Min_Function.pdb
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\03.Custom_Min_Function\obj\Debug\net5.0\03.Custom_Min_Function.genruntimeconfig.cache

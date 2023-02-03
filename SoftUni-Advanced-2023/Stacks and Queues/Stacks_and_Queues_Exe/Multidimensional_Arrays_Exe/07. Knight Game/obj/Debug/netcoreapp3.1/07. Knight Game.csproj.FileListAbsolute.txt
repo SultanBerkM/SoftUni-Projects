@@ -1,0 +1,14 @@
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\07. Knight Game\bin\Debug\netcoreapp3.1\07. Knight Game.exe
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\07. Knight Game\bin\Debug\netcoreapp3.1\07. Knight Game.deps.json
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\07. Knight Game\bin\Debug\netcoreapp3.1\07. Knight Game.runtimeconfig.json
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\07. Knight Game\bin\Debug\netcoreapp3.1\07. Knight Game.runtimeconfig.dev.json
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\07. Knight Game\bin\Debug\netcoreapp3.1\07. Knight Game.dll
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\07. Knight Game\bin\Debug\netcoreapp3.1\07. Knight Game.pdb
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\07. Knight Game\obj\Debug\netcoreapp3.1\07. Knight Game.csproj.AssemblyReference.cache
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\07. Knight Game\obj\Debug\netcoreapp3.1\07. Knight Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\07. Knight Game\obj\Debug\netcoreapp3.1\07. Knight Game.AssemblyInfoInputs.cache
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\07. Knight Game\obj\Debug\netcoreapp3.1\07. Knight Game.AssemblyInfo.cs
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\07. Knight Game\obj\Debug\netcoreapp3.1\07. Knight Game.csproj.CoreCompileInputs.cache
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\07. Knight Game\obj\Debug\netcoreapp3.1\07. Knight Game.dll
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\07. Knight Game\obj\Debug\netcoreapp3.1\07. Knight Game.pdb
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\07. Knight Game\obj\Debug\netcoreapp3.1\07. Knight Game.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\01.Action_Point\bin\Debug\net5.0\01.Action_Point.exe
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\01.Action_Point\bin\Debug\net5.0\01.Action_Point.deps.json
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\01.Action_Point\bin\Debug\net5.0\01.Action_Point.runtimeconfig.json
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\01.Action_Point\bin\Debug\net5.0\01.Action_Point.runtimeconfig.dev.json
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\01.Action_Point\bin\Debug\net5.0\01.Action_Point.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\01.Action_Point\bin\Debug\net5.0\ref\01.Action_Point.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\01.Action_Point\bin\Debug\net5.0\01.Action_Point.pdb
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\01.Action_Point\obj\Debug\net5.0\01.Action_Point.csproj.AssemblyReference.cache
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\01.Action_Point\obj\Debug\net5.0\01.Action_Point.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\01.Action_Point\obj\Debug\net5.0\01.Action_Point.AssemblyInfoInputs.cache
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\01.Action_Point\obj\Debug\net5.0\01.Action_Point.AssemblyInfo.cs
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\01.Action_Point\obj\Debug\net5.0\01.Action_Point.csproj.CoreCompileInputs.cache
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\01.Action_Point\obj\Debug\net5.0\01.Action_Point.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\01.Action_Point\obj\Debug\net5.0\ref\01.Action_Point.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\01.Action_Point\obj\Debug\net5.0\01.Action_Point.pdb
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\01.Action_Point\obj\Debug\net5.0\01.Action_Point.genruntimeconfig.cache

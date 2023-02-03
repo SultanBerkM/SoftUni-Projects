@@ -1,0 +1,16 @@
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\Tests\bin\Debug\net5.0\Tests.exe
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\Tests\bin\Debug\net5.0\Tests.deps.json
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\Tests\bin\Debug\net5.0\Tests.runtimeconfig.json
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\Tests\bin\Debug\net5.0\Tests.runtimeconfig.dev.json
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\Tests\bin\Debug\net5.0\Tests.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\Tests\bin\Debug\net5.0\ref\Tests.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\Tests\bin\Debug\net5.0\Tests.pdb
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\Tests\obj\Debug\net5.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\Tests\obj\Debug\net5.0\Tests.AssemblyInfoInputs.cache
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\Tests\obj\Debug\net5.0\Tests.AssemblyInfo.cs
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\Tests\obj\Debug\net5.0\Tests.csproj.CoreCompileInputs.cache
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\Tests\obj\Debug\net5.0\Tests.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\Tests\obj\Debug\net5.0\ref\Tests.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\Tests\obj\Debug\net5.0\Tests.pdb
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\Tests\obj\Debug\net5.0\Tests.genruntimeconfig.cache
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\Tests\obj\Debug\net5.0\Tests.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\04.OpinionPoll\bin\Debug\net5.0\04.OpinionPoll.exe
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\04.OpinionPoll\bin\Debug\net5.0\04.OpinionPoll.deps.json
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\04.OpinionPoll\bin\Debug\net5.0\04.OpinionPoll.runtimeconfig.json
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\04.OpinionPoll\bin\Debug\net5.0\04.OpinionPoll.runtimeconfig.dev.json
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\04.OpinionPoll\bin\Debug\net5.0\04.OpinionPoll.dll
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\04.OpinionPoll\bin\Debug\net5.0\ref\04.OpinionPoll.dll
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\04.OpinionPoll\bin\Debug\net5.0\04.OpinionPoll.pdb
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\04.OpinionPoll\obj\Debug\net5.0\04.OpinionPoll.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\04.OpinionPoll\obj\Debug\net5.0\04.OpinionPoll.AssemblyInfoInputs.cache
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\04.OpinionPoll\obj\Debug\net5.0\04.OpinionPoll.AssemblyInfo.cs
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\04.OpinionPoll\obj\Debug\net5.0\04.OpinionPoll.csproj.CoreCompileInputs.cache
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\04.OpinionPoll\obj\Debug\net5.0\04.OpinionPoll.dll
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\04.OpinionPoll\obj\Debug\net5.0\ref\04.OpinionPoll.dll
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\04.OpinionPoll\obj\Debug\net5.0\04.OpinionPoll.pdb
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\04.OpinionPoll\obj\Debug\net5.0\04.OpinionPoll.genruntimeconfig.cache

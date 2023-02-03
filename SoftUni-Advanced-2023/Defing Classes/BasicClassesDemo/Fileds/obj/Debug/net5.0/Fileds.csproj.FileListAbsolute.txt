@@ -1,0 +1,16 @@
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\Fileds\bin\Debug\net5.0\Fileds.exe
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\Fileds\bin\Debug\net5.0\Fileds.deps.json
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\Fileds\bin\Debug\net5.0\Fileds.runtimeconfig.json
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\Fileds\bin\Debug\net5.0\Fileds.runtimeconfig.dev.json
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\Fileds\bin\Debug\net5.0\Fileds.dll
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\Fileds\bin\Debug\net5.0\ref\Fileds.dll
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\Fileds\bin\Debug\net5.0\Fileds.pdb
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\Fileds\obj\Debug\net5.0\Fileds.csproj.AssemblyReference.cache
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\Fileds\obj\Debug\net5.0\Fileds.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\Fileds\obj\Debug\net5.0\Fileds.AssemblyInfoInputs.cache
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\Fileds\obj\Debug\net5.0\Fileds.AssemblyInfo.cs
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\Fileds\obj\Debug\net5.0\Fileds.csproj.CoreCompileInputs.cache
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\Fileds\obj\Debug\net5.0\Fileds.dll
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\Fileds\obj\Debug\net5.0\ref\Fileds.dll
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\Fileds\obj\Debug\net5.0\Fileds.pdb
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\Fileds\obj\Debug\net5.0\Fileds.genruntimeconfig.cache

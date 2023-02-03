@@ -1,0 +1,16 @@
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\04.CarEngine_and_Tires\bin\Debug\net5.0\04.CarEngine_and_Tires.exe
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\04.CarEngine_and_Tires\bin\Debug\net5.0\04.CarEngine_and_Tires.deps.json
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\04.CarEngine_and_Tires\bin\Debug\net5.0\04.CarEngine_and_Tires.runtimeconfig.json
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\04.CarEngine_and_Tires\bin\Debug\net5.0\04.CarEngine_and_Tires.runtimeconfig.dev.json
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\04.CarEngine_and_Tires\bin\Debug\net5.0\04.CarEngine_and_Tires.dll
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\04.CarEngine_and_Tires\bin\Debug\net5.0\ref\04.CarEngine_and_Tires.dll
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\04.CarEngine_and_Tires\bin\Debug\net5.0\04.CarEngine_and_Tires.pdb
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\04.CarEngine_and_Tires\obj\Debug\net5.0\04.CarEngine_and_Tires.csproj.AssemblyReference.cache
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\04.CarEngine_and_Tires\obj\Debug\net5.0\04.CarEngine_and_Tires.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\04.CarEngine_and_Tires\obj\Debug\net5.0\04.CarEngine_and_Tires.AssemblyInfoInputs.cache
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\04.CarEngine_and_Tires\obj\Debug\net5.0\04.CarEngine_and_Tires.AssemblyInfo.cs
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\04.CarEngine_and_Tires\obj\Debug\net5.0\04.CarEngine_and_Tires.csproj.CoreCompileInputs.cache
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\04.CarEngine_and_Tires\obj\Debug\net5.0\04.CarEngine_and_Tires.dll
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\04.CarEngine_and_Tires\obj\Debug\net5.0\ref\04.CarEngine_and_Tires.dll
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\04.CarEngine_and_Tires\obj\Debug\net5.0\04.CarEngine_and_Tires.pdb
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\04.CarEngine_and_Tires\obj\Debug\net5.0\04.CarEngine_and_Tires.genruntimeconfig.cache

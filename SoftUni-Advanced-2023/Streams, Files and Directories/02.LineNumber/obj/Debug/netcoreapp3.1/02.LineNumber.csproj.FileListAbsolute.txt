@@ -1,0 +1,13 @@
+D:\Visual Studio 2019\Streams, Files and Directories\02.LineNumber\bin\Debug\netcoreapp3.1\02.LineNumber.exe
+D:\Visual Studio 2019\Streams, Files and Directories\02.LineNumber\bin\Debug\netcoreapp3.1\02.LineNumber.deps.json
+D:\Visual Studio 2019\Streams, Files and Directories\02.LineNumber\bin\Debug\netcoreapp3.1\02.LineNumber.runtimeconfig.json
+D:\Visual Studio 2019\Streams, Files and Directories\02.LineNumber\bin\Debug\netcoreapp3.1\02.LineNumber.runtimeconfig.dev.json
+D:\Visual Studio 2019\Streams, Files and Directories\02.LineNumber\bin\Debug\netcoreapp3.1\02.LineNumber.dll
+D:\Visual Studio 2019\Streams, Files and Directories\02.LineNumber\bin\Debug\netcoreapp3.1\02.LineNumber.pdb
+D:\Visual Studio 2019\Streams, Files and Directories\02.LineNumber\obj\Debug\netcoreapp3.1\02.LineNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2019\Streams, Files and Directories\02.LineNumber\obj\Debug\netcoreapp3.1\02.LineNumber.AssemblyInfoInputs.cache
+D:\Visual Studio 2019\Streams, Files and Directories\02.LineNumber\obj\Debug\netcoreapp3.1\02.LineNumber.AssemblyInfo.cs
+D:\Visual Studio 2019\Streams, Files and Directories\02.LineNumber\obj\Debug\netcoreapp3.1\02.LineNumber.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\Streams, Files and Directories\02.LineNumber\obj\Debug\netcoreapp3.1\02.LineNumber.dll
+D:\Visual Studio 2019\Streams, Files and Directories\02.LineNumber\obj\Debug\netcoreapp3.1\02.LineNumber.pdb
+D:\Visual Studio 2019\Streams, Files and Directories\02.LineNumber\obj\Debug\netcoreapp3.1\02.LineNumber.genruntimeconfig.cache

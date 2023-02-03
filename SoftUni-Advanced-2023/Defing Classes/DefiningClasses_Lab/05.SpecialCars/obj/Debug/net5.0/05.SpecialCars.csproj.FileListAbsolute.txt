@@ -1,0 +1,16 @@
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\05.SpecialCars\bin\Debug\net5.0\05.SpecialCars.exe
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\05.SpecialCars\bin\Debug\net5.0\05.SpecialCars.deps.json
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\05.SpecialCars\bin\Debug\net5.0\05.SpecialCars.runtimeconfig.json
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\05.SpecialCars\bin\Debug\net5.0\05.SpecialCars.runtimeconfig.dev.json
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\05.SpecialCars\bin\Debug\net5.0\05.SpecialCars.dll
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\05.SpecialCars\bin\Debug\net5.0\ref\05.SpecialCars.dll
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\05.SpecialCars\bin\Debug\net5.0\05.SpecialCars.pdb
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\05.SpecialCars\obj\Debug\net5.0\05.SpecialCars.csproj.AssemblyReference.cache
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\05.SpecialCars\obj\Debug\net5.0\05.SpecialCars.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\05.SpecialCars\obj\Debug\net5.0\05.SpecialCars.AssemblyInfoInputs.cache
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\05.SpecialCars\obj\Debug\net5.0\05.SpecialCars.AssemblyInfo.cs
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\05.SpecialCars\obj\Debug\net5.0\05.SpecialCars.csproj.CoreCompileInputs.cache
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\05.SpecialCars\obj\Debug\net5.0\05.SpecialCars.dll
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\05.SpecialCars\obj\Debug\net5.0\ref\05.SpecialCars.dll
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\05.SpecialCars\obj\Debug\net5.0\05.SpecialCars.pdb
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\05.SpecialCars\obj\Debug\net5.0\05.SpecialCars.genruntimeconfig.cache

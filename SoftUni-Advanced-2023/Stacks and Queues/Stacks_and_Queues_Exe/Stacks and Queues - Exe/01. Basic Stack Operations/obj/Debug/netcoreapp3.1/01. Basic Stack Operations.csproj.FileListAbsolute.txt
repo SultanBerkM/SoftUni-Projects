@@ -1,0 +1,14 @@
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\01. Basic Stack Operations\bin\Debug\netcoreapp3.1\01. Basic Stack Operations.exe
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\01. Basic Stack Operations\bin\Debug\netcoreapp3.1\01. Basic Stack Operations.deps.json
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\01. Basic Stack Operations\bin\Debug\netcoreapp3.1\01. Basic Stack Operations.runtimeconfig.json
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\01. Basic Stack Operations\bin\Debug\netcoreapp3.1\01. Basic Stack Operations.runtimeconfig.dev.json
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\01. Basic Stack Operations\bin\Debug\netcoreapp3.1\01. Basic Stack Operations.dll
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\01. Basic Stack Operations\bin\Debug\netcoreapp3.1\01. Basic Stack Operations.pdb
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\01. Basic Stack Operations\obj\Debug\netcoreapp3.1\01. Basic Stack Operations.csproj.AssemblyReference.cache
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\01. Basic Stack Operations\obj\Debug\netcoreapp3.1\01. Basic Stack Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\01. Basic Stack Operations\obj\Debug\netcoreapp3.1\01. Basic Stack Operations.AssemblyInfoInputs.cache
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\01. Basic Stack Operations\obj\Debug\netcoreapp3.1\01. Basic Stack Operations.AssemblyInfo.cs
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\01. Basic Stack Operations\obj\Debug\netcoreapp3.1\01. Basic Stack Operations.csproj.CoreCompileInputs.cache
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\01. Basic Stack Operations\obj\Debug\netcoreapp3.1\01. Basic Stack Operations.dll
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\01. Basic Stack Operations\obj\Debug\netcoreapp3.1\01. Basic Stack Operations.pdb
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\01. Basic Stack Operations\obj\Debug\netcoreapp3.1\01. Basic Stack Operations.genruntimeconfig.cache

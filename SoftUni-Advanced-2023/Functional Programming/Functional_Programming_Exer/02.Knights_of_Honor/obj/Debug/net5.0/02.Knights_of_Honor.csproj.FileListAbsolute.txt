@@ -1,0 +1,15 @@
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\02.Knights_of_Honor\bin\Debug\net5.0\02.Knights_of_Honor.exe
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\02.Knights_of_Honor\bin\Debug\net5.0\02.Knights_of_Honor.deps.json
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\02.Knights_of_Honor\bin\Debug\net5.0\02.Knights_of_Honor.runtimeconfig.json
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\02.Knights_of_Honor\bin\Debug\net5.0\02.Knights_of_Honor.runtimeconfig.dev.json
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\02.Knights_of_Honor\bin\Debug\net5.0\02.Knights_of_Honor.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\02.Knights_of_Honor\bin\Debug\net5.0\ref\02.Knights_of_Honor.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\02.Knights_of_Honor\bin\Debug\net5.0\02.Knights_of_Honor.pdb
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\02.Knights_of_Honor\obj\Debug\net5.0\02.Knights_of_Honor.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\02.Knights_of_Honor\obj\Debug\net5.0\02.Knights_of_Honor.AssemblyInfoInputs.cache
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\02.Knights_of_Honor\obj\Debug\net5.0\02.Knights_of_Honor.AssemblyInfo.cs
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\02.Knights_of_Honor\obj\Debug\net5.0\02.Knights_of_Honor.csproj.CoreCompileInputs.cache
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\02.Knights_of_Honor\obj\Debug\net5.0\02.Knights_of_Honor.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\02.Knights_of_Honor\obj\Debug\net5.0\ref\02.Knights_of_Honor.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\02.Knights_of_Honor\obj\Debug\net5.0\02.Knights_of_Honor.pdb
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\02.Knights_of_Honor\obj\Debug\net5.0\02.Knights_of_Honor.genruntimeconfig.cache

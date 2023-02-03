@@ -1,0 +1,15 @@
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\ClassMembers\obj\Debug\net5.0\ClassMembers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\ClassMembers\obj\Debug\net5.0\ClassMembers.AssemblyInfoInputs.cache
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\ClassMembers\obj\Debug\net5.0\ClassMembers.AssemblyInfo.cs
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\ClassMembers\obj\Debug\net5.0\ClassMembers.csproj.CoreCompileInputs.cache
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\ClassMembers\bin\Debug\net5.0\ClassMembers.exe
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\ClassMembers\bin\Debug\net5.0\ClassMembers.deps.json
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\ClassMembers\bin\Debug\net5.0\ClassMembers.runtimeconfig.json
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\ClassMembers\bin\Debug\net5.0\ClassMembers.runtimeconfig.dev.json
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\ClassMembers\bin\Debug\net5.0\ClassMembers.dll
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\ClassMembers\bin\Debug\net5.0\ref\ClassMembers.dll
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\ClassMembers\bin\Debug\net5.0\ClassMembers.pdb
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\ClassMembers\obj\Debug\net5.0\ClassMembers.dll
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\ClassMembers\obj\Debug\net5.0\ref\ClassMembers.dll
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\ClassMembers\obj\Debug\net5.0\ClassMembers.pdb
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\ClassMembers\obj\Debug\net5.0\ClassMembers.genruntimeconfig.cache

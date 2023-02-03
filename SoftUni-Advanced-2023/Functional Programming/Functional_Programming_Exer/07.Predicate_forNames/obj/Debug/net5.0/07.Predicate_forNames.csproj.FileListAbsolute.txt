@@ -1,0 +1,16 @@
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\07.Predicate_forNames\bin\Debug\net5.0\07.Predicate_forNames.exe
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\07.Predicate_forNames\bin\Debug\net5.0\07.Predicate_forNames.deps.json
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\07.Predicate_forNames\bin\Debug\net5.0\07.Predicate_forNames.runtimeconfig.json
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\07.Predicate_forNames\bin\Debug\net5.0\07.Predicate_forNames.runtimeconfig.dev.json
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\07.Predicate_forNames\bin\Debug\net5.0\07.Predicate_forNames.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\07.Predicate_forNames\bin\Debug\net5.0\ref\07.Predicate_forNames.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\07.Predicate_forNames\bin\Debug\net5.0\07.Predicate_forNames.pdb
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\07.Predicate_forNames\obj\Debug\net5.0\07.Predicate_forNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\07.Predicate_forNames\obj\Debug\net5.0\07.Predicate_forNames.AssemblyInfoInputs.cache
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\07.Predicate_forNames\obj\Debug\net5.0\07.Predicate_forNames.AssemblyInfo.cs
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\07.Predicate_forNames\obj\Debug\net5.0\07.Predicate_forNames.csproj.CoreCompileInputs.cache
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\07.Predicate_forNames\obj\Debug\net5.0\07.Predicate_forNames.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\07.Predicate_forNames\obj\Debug\net5.0\ref\07.Predicate_forNames.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\07.Predicate_forNames\obj\Debug\net5.0\07.Predicate_forNames.pdb
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\07.Predicate_forNames\obj\Debug\net5.0\07.Predicate_forNames.genruntimeconfig.cache
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\07.Predicate_forNames\obj\Debug\net5.0\07.Predicate_forNames.csproj.AssemblyReference.cache

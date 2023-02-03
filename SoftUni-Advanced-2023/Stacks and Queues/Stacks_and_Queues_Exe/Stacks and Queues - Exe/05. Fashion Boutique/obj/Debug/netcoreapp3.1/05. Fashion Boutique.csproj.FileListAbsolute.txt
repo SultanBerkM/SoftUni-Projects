@@ -1,0 +1,14 @@
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\05. Fashion Boutique\bin\Debug\netcoreapp3.1\05. Fashion Boutique.exe
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\05. Fashion Boutique\bin\Debug\netcoreapp3.1\05. Fashion Boutique.deps.json
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\05. Fashion Boutique\bin\Debug\netcoreapp3.1\05. Fashion Boutique.runtimeconfig.json
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\05. Fashion Boutique\bin\Debug\netcoreapp3.1\05. Fashion Boutique.runtimeconfig.dev.json
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\05. Fashion Boutique\bin\Debug\netcoreapp3.1\05. Fashion Boutique.dll
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\05. Fashion Boutique\bin\Debug\netcoreapp3.1\05. Fashion Boutique.pdb
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.AssemblyInfoInputs.cache
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.AssemblyInfo.cs
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.csproj.CoreCompileInputs.cache
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.dll
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.pdb
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.genruntimeconfig.cache
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Stacks and Queues - Exe\05. Fashion Boutique\obj\Debug\netcoreapp3.1\05. Fashion Boutique.csproj.AssemblyReference.cache

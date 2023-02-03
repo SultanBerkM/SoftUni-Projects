@@ -1,0 +1,14 @@
+D:\Visual Studio 2019\Streams, Files and Directories\04.MergeFiles\obj\Debug\netcoreapp3.1\04.MergeFiles.csproj.AssemblyReference.cache
+D:\Visual Studio 2019\Streams, Files and Directories\04.MergeFiles\obj\Debug\netcoreapp3.1\04.MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2019\Streams, Files and Directories\04.MergeFiles\obj\Debug\netcoreapp3.1\04.MergeFiles.AssemblyInfoInputs.cache
+D:\Visual Studio 2019\Streams, Files and Directories\04.MergeFiles\obj\Debug\netcoreapp3.1\04.MergeFiles.AssemblyInfo.cs
+D:\Visual Studio 2019\Streams, Files and Directories\04.MergeFiles\obj\Debug\netcoreapp3.1\04.MergeFiles.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\Streams, Files and Directories\04.MergeFiles\bin\Debug\netcoreapp3.1\04.MergeFiles.exe
+D:\Visual Studio 2019\Streams, Files and Directories\04.MergeFiles\bin\Debug\netcoreapp3.1\04.MergeFiles.deps.json
+D:\Visual Studio 2019\Streams, Files and Directories\04.MergeFiles\bin\Debug\netcoreapp3.1\04.MergeFiles.runtimeconfig.json
+D:\Visual Studio 2019\Streams, Files and Directories\04.MergeFiles\bin\Debug\netcoreapp3.1\04.MergeFiles.runtimeconfig.dev.json
+D:\Visual Studio 2019\Streams, Files and Directories\04.MergeFiles\bin\Debug\netcoreapp3.1\04.MergeFiles.dll
+D:\Visual Studio 2019\Streams, Files and Directories\04.MergeFiles\bin\Debug\netcoreapp3.1\04.MergeFiles.pdb
+D:\Visual Studio 2019\Streams, Files and Directories\04.MergeFiles\obj\Debug\netcoreapp3.1\04.MergeFiles.dll
+D:\Visual Studio 2019\Streams, Files and Directories\04.MergeFiles\obj\Debug\netcoreapp3.1\04.MergeFiles.pdb
+D:\Visual Studio 2019\Streams, Files and Directories\04.MergeFiles\obj\Debug\netcoreapp3.1\04.MergeFiles.genruntimeconfig.cache

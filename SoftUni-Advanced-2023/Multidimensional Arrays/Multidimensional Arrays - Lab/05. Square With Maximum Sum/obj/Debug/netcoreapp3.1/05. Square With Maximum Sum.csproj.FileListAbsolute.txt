@@ -1,0 +1,13 @@
+D:\SoftUni-Advanced-2023\Multidimensional Arrays\Multidimensional Arrays - Lab\05. Square With Maximum Sum\bin\Debug\netcoreapp3.1\05. Square With Maximum Sum.exe
+D:\SoftUni-Advanced-2023\Multidimensional Arrays\Multidimensional Arrays - Lab\05. Square With Maximum Sum\bin\Debug\netcoreapp3.1\05. Square With Maximum Sum.deps.json
+D:\SoftUni-Advanced-2023\Multidimensional Arrays\Multidimensional Arrays - Lab\05. Square With Maximum Sum\bin\Debug\netcoreapp3.1\05. Square With Maximum Sum.runtimeconfig.json
+D:\SoftUni-Advanced-2023\Multidimensional Arrays\Multidimensional Arrays - Lab\05. Square With Maximum Sum\bin\Debug\netcoreapp3.1\05. Square With Maximum Sum.runtimeconfig.dev.json
+D:\SoftUni-Advanced-2023\Multidimensional Arrays\Multidimensional Arrays - Lab\05. Square With Maximum Sum\bin\Debug\netcoreapp3.1\05. Square With Maximum Sum.dll
+D:\SoftUni-Advanced-2023\Multidimensional Arrays\Multidimensional Arrays - Lab\05. Square With Maximum Sum\bin\Debug\netcoreapp3.1\05. Square With Maximum Sum.pdb
+D:\SoftUni-Advanced-2023\Multidimensional Arrays\Multidimensional Arrays - Lab\05. Square With Maximum Sum\obj\Debug\netcoreapp3.1\05. Square With Maximum Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-Advanced-2023\Multidimensional Arrays\Multidimensional Arrays - Lab\05. Square With Maximum Sum\obj\Debug\netcoreapp3.1\05. Square With Maximum Sum.AssemblyInfoInputs.cache
+D:\SoftUni-Advanced-2023\Multidimensional Arrays\Multidimensional Arrays - Lab\05. Square With Maximum Sum\obj\Debug\netcoreapp3.1\05. Square With Maximum Sum.AssemblyInfo.cs
+D:\SoftUni-Advanced-2023\Multidimensional Arrays\Multidimensional Arrays - Lab\05. Square With Maximum Sum\obj\Debug\netcoreapp3.1\05. Square With Maximum Sum.csproj.CoreCompileInputs.cache
+D:\SoftUni-Advanced-2023\Multidimensional Arrays\Multidimensional Arrays - Lab\05. Square With Maximum Sum\obj\Debug\netcoreapp3.1\05. Square With Maximum Sum.dll
+D:\SoftUni-Advanced-2023\Multidimensional Arrays\Multidimensional Arrays - Lab\05. Square With Maximum Sum\obj\Debug\netcoreapp3.1\05. Square With Maximum Sum.pdb
+D:\SoftUni-Advanced-2023\Multidimensional Arrays\Multidimensional Arrays - Lab\05. Square With Maximum Sum\obj\Debug\netcoreapp3.1\05. Square With Maximum Sum.genruntimeconfig.cache

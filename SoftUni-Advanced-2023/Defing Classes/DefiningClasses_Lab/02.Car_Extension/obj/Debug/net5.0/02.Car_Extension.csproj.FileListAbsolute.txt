@@ -1,0 +1,16 @@
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\02.Car_Extension\bin\Debug\net5.0\02.Car_Extension.exe
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\02.Car_Extension\bin\Debug\net5.0\02.Car_Extension.deps.json
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\02.Car_Extension\bin\Debug\net5.0\02.Car_Extension.runtimeconfig.json
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\02.Car_Extension\bin\Debug\net5.0\02.Car_Extension.runtimeconfig.dev.json
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\02.Car_Extension\bin\Debug\net5.0\02.Car_Extension.dll
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\02.Car_Extension\bin\Debug\net5.0\ref\02.Car_Extension.dll
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\02.Car_Extension\bin\Debug\net5.0\02.Car_Extension.pdb
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\02.Car_Extension\obj\Debug\net5.0\02.Car_Extension.csproj.AssemblyReference.cache
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\02.Car_Extension\obj\Debug\net5.0\02.Car_Extension.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\02.Car_Extension\obj\Debug\net5.0\02.Car_Extension.AssemblyInfoInputs.cache
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\02.Car_Extension\obj\Debug\net5.0\02.Car_Extension.AssemblyInfo.cs
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\02.Car_Extension\obj\Debug\net5.0\02.Car_Extension.csproj.CoreCompileInputs.cache
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\02.Car_Extension\obj\Debug\net5.0\02.Car_Extension.dll
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\02.Car_Extension\obj\Debug\net5.0\ref\02.Car_Extension.dll
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\02.Car_Extension\obj\Debug\net5.0\02.Car_Extension.pdb
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Lab\02.Car_Extension\obj\Debug\net5.0\02.Car_Extension.genruntimeconfig.cache

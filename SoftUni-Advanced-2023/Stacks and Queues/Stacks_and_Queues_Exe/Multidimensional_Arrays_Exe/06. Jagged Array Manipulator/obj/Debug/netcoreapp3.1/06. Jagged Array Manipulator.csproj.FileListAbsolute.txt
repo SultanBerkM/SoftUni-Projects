@@ -1,0 +1,14 @@
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.exe
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.deps.json
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.runtimeconfig.json
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.runtimeconfig.dev.json
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.dll
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.pdb
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.AssemblyInfoInputs.cache
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.AssemblyInfo.cs
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.dll
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.pdb
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.genruntimeconfig.cache
+D:\SoftUni-Advanced-2023\Stacks and Queues\Stacks_and_Queues_Exe\Multidimensional_Arrays_Exe\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.csproj.AssemblyReference.cache

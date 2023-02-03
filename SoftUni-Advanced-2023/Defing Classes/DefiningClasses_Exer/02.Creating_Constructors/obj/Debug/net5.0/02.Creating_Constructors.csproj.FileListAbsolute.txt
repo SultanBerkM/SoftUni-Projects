@@ -1,0 +1,16 @@
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\02.Creating_Constructors\bin\Debug\net5.0\02.Creating_Constructors.exe
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\02.Creating_Constructors\bin\Debug\net5.0\02.Creating_Constructors.deps.json
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\02.Creating_Constructors\bin\Debug\net5.0\02.Creating_Constructors.runtimeconfig.json
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\02.Creating_Constructors\bin\Debug\net5.0\02.Creating_Constructors.runtimeconfig.dev.json
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\02.Creating_Constructors\bin\Debug\net5.0\02.Creating_Constructors.dll
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\02.Creating_Constructors\bin\Debug\net5.0\ref\02.Creating_Constructors.dll
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\02.Creating_Constructors\bin\Debug\net5.0\02.Creating_Constructors.pdb
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\02.Creating_Constructors\obj\Debug\net5.0\02.Creating_Constructors.csproj.AssemblyReference.cache
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\02.Creating_Constructors\obj\Debug\net5.0\02.Creating_Constructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\02.Creating_Constructors\obj\Debug\net5.0\02.Creating_Constructors.AssemblyInfoInputs.cache
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\02.Creating_Constructors\obj\Debug\net5.0\02.Creating_Constructors.AssemblyInfo.cs
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\02.Creating_Constructors\obj\Debug\net5.0\02.Creating_Constructors.csproj.CoreCompileInputs.cache
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\02.Creating_Constructors\obj\Debug\net5.0\02.Creating_Constructors.dll
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\02.Creating_Constructors\obj\Debug\net5.0\ref\02.Creating_Constructors.dll
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\02.Creating_Constructors\obj\Debug\net5.0\02.Creating_Constructors.pdb
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\02.Creating_Constructors\obj\Debug\net5.0\02.Creating_Constructors.genruntimeconfig.cache

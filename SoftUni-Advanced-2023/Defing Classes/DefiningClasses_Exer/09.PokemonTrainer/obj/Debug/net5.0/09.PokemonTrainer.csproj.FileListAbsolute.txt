@@ -1,0 +1,16 @@
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\09.PokemonTrainer\bin\Debug\net5.0\09.PokemonTrainer.exe
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\09.PokemonTrainer\bin\Debug\net5.0\09.PokemonTrainer.deps.json
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\09.PokemonTrainer\bin\Debug\net5.0\09.PokemonTrainer.runtimeconfig.json
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\09.PokemonTrainer\bin\Debug\net5.0\09.PokemonTrainer.runtimeconfig.dev.json
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\09.PokemonTrainer\bin\Debug\net5.0\09.PokemonTrainer.dll
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\09.PokemonTrainer\bin\Debug\net5.0\ref\09.PokemonTrainer.dll
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\09.PokemonTrainer\bin\Debug\net5.0\09.PokemonTrainer.pdb
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\09.PokemonTrainer\obj\Debug\net5.0\09.PokemonTrainer.csproj.AssemblyReference.cache
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\09.PokemonTrainer\obj\Debug\net5.0\09.PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\09.PokemonTrainer\obj\Debug\net5.0\09.PokemonTrainer.AssemblyInfoInputs.cache
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\09.PokemonTrainer\obj\Debug\net5.0\09.PokemonTrainer.AssemblyInfo.cs
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\09.PokemonTrainer\obj\Debug\net5.0\09.PokemonTrainer.csproj.CoreCompileInputs.cache
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\09.PokemonTrainer\obj\Debug\net5.0\09.PokemonTrainer.dll
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\09.PokemonTrainer\obj\Debug\net5.0\ref\09.PokemonTrainer.dll
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\09.PokemonTrainer\obj\Debug\net5.0\09.PokemonTrainer.pdb
+D:\SoftUni-Advanced-2023\Defing Classes\DefiningClasses_Exer\09.PokemonTrainer\obj\Debug\net5.0\09.PokemonTrainer.genruntimeconfig.cache

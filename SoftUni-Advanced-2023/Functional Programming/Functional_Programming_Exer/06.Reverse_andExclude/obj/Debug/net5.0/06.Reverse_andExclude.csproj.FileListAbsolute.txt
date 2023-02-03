@@ -1,0 +1,16 @@
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\06.Reverse_andExclude\bin\Debug\net5.0\06.Reverse_andExclude.exe
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\06.Reverse_andExclude\bin\Debug\net5.0\06.Reverse_andExclude.deps.json
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\06.Reverse_andExclude\bin\Debug\net5.0\06.Reverse_andExclude.runtimeconfig.json
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\06.Reverse_andExclude\bin\Debug\net5.0\06.Reverse_andExclude.runtimeconfig.dev.json
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\06.Reverse_andExclude\bin\Debug\net5.0\06.Reverse_andExclude.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\06.Reverse_andExclude\bin\Debug\net5.0\ref\06.Reverse_andExclude.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\06.Reverse_andExclude\bin\Debug\net5.0\06.Reverse_andExclude.pdb
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\06.Reverse_andExclude\obj\Debug\net5.0\06.Reverse_andExclude.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\06.Reverse_andExclude\obj\Debug\net5.0\06.Reverse_andExclude.AssemblyInfoInputs.cache
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\06.Reverse_andExclude\obj\Debug\net5.0\06.Reverse_andExclude.AssemblyInfo.cs
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\06.Reverse_andExclude\obj\Debug\net5.0\06.Reverse_andExclude.csproj.CoreCompileInputs.cache
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\06.Reverse_andExclude\obj\Debug\net5.0\06.Reverse_andExclude.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\06.Reverse_andExclude\obj\Debug\net5.0\ref\06.Reverse_andExclude.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\06.Reverse_andExclude\obj\Debug\net5.0\06.Reverse_andExclude.pdb
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\06.Reverse_andExclude\obj\Debug\net5.0\06.Reverse_andExclude.genruntimeconfig.cache
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\06.Reverse_andExclude\obj\Debug\net5.0\06.Reverse_andExclude.csproj.AssemblyReference.cache

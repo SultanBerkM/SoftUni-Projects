@@ -1,0 +1,13 @@
+D:\SoftUni-Advanced-2023\Sets and Advanced Dictionaries\Sets_and_Dictionaries_Advanced_Lab\08. SoftUni Party\bin\Debug\netcoreapp3.1\08. SoftUni Party.exe
+D:\SoftUni-Advanced-2023\Sets and Advanced Dictionaries\Sets_and_Dictionaries_Advanced_Lab\08. SoftUni Party\bin\Debug\netcoreapp3.1\08. SoftUni Party.deps.json
+D:\SoftUni-Advanced-2023\Sets and Advanced Dictionaries\Sets_and_Dictionaries_Advanced_Lab\08. SoftUni Party\bin\Debug\netcoreapp3.1\08. SoftUni Party.runtimeconfig.json
+D:\SoftUni-Advanced-2023\Sets and Advanced Dictionaries\Sets_and_Dictionaries_Advanced_Lab\08. SoftUni Party\bin\Debug\netcoreapp3.1\08. SoftUni Party.runtimeconfig.dev.json
+D:\SoftUni-Advanced-2023\Sets and Advanced Dictionaries\Sets_and_Dictionaries_Advanced_Lab\08. SoftUni Party\bin\Debug\netcoreapp3.1\08. SoftUni Party.dll
+D:\SoftUni-Advanced-2023\Sets and Advanced Dictionaries\Sets_and_Dictionaries_Advanced_Lab\08. SoftUni Party\bin\Debug\netcoreapp3.1\08. SoftUni Party.pdb
+D:\SoftUni-Advanced-2023\Sets and Advanced Dictionaries\Sets_and_Dictionaries_Advanced_Lab\08. SoftUni Party\obj\Debug\netcoreapp3.1\08. SoftUni Party.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-Advanced-2023\Sets and Advanced Dictionaries\Sets_and_Dictionaries_Advanced_Lab\08. SoftUni Party\obj\Debug\netcoreapp3.1\08. SoftUni Party.AssemblyInfoInputs.cache
+D:\SoftUni-Advanced-2023\Sets and Advanced Dictionaries\Sets_and_Dictionaries_Advanced_Lab\08. SoftUni Party\obj\Debug\netcoreapp3.1\08. SoftUni Party.AssemblyInfo.cs
+D:\SoftUni-Advanced-2023\Sets and Advanced Dictionaries\Sets_and_Dictionaries_Advanced_Lab\08. SoftUni Party\obj\Debug\netcoreapp3.1\08. SoftUni Party.csproj.CoreCompileInputs.cache
+D:\SoftUni-Advanced-2023\Sets and Advanced Dictionaries\Sets_and_Dictionaries_Advanced_Lab\08. SoftUni Party\obj\Debug\netcoreapp3.1\08. SoftUni Party.dll
+D:\SoftUni-Advanced-2023\Sets and Advanced Dictionaries\Sets_and_Dictionaries_Advanced_Lab\08. SoftUni Party\obj\Debug\netcoreapp3.1\08. SoftUni Party.pdb
+D:\SoftUni-Advanced-2023\Sets and Advanced Dictionaries\Sets_and_Dictionaries_Advanced_Lab\08. SoftUni Party\obj\Debug\netcoreapp3.1\08. SoftUni Party.genruntimeconfig.cache

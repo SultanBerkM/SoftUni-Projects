@@ -1,0 +1,14 @@
+D:\Visual Studio 2019\Streams, Files and Directories\03.WordCount\bin\Debug\netcoreapp3.1\03.WordCount.exe
+D:\Visual Studio 2019\Streams, Files and Directories\03.WordCount\bin\Debug\netcoreapp3.1\03.WordCount.deps.json
+D:\Visual Studio 2019\Streams, Files and Directories\03.WordCount\bin\Debug\netcoreapp3.1\03.WordCount.runtimeconfig.json
+D:\Visual Studio 2019\Streams, Files and Directories\03.WordCount\bin\Debug\netcoreapp3.1\03.WordCount.runtimeconfig.dev.json
+D:\Visual Studio 2019\Streams, Files and Directories\03.WordCount\bin\Debug\netcoreapp3.1\03.WordCount.dll
+D:\Visual Studio 2019\Streams, Files and Directories\03.WordCount\bin\Debug\netcoreapp3.1\03.WordCount.pdb
+D:\Visual Studio 2019\Streams, Files and Directories\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.csproj.AssemblyReference.cache
+D:\Visual Studio 2019\Streams, Files and Directories\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2019\Streams, Files and Directories\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.AssemblyInfoInputs.cache
+D:\Visual Studio 2019\Streams, Files and Directories\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.AssemblyInfo.cs
+D:\Visual Studio 2019\Streams, Files and Directories\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\Streams, Files and Directories\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.dll
+D:\Visual Studio 2019\Streams, Files and Directories\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.pdb
+D:\Visual Studio 2019\Streams, Files and Directories\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.genruntimeconfig.cache

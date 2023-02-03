@@ -1,0 +1,21 @@
+D:\Visual Studio 2019\Streams, Files and Directories\00.Demos\bin\Debug\netcoreapp3.1\00.Demos.exe
+D:\Visual Studio 2019\Streams, Files and Directories\00.Demos\bin\Debug\netcoreapp3.1\00.Demos.deps.json
+D:\Visual Studio 2019\Streams, Files and Directories\00.Demos\bin\Debug\netcoreapp3.1\00.Demos.runtimeconfig.json
+D:\Visual Studio 2019\Streams, Files and Directories\00.Demos\bin\Debug\netcoreapp3.1\00.Demos.runtimeconfig.dev.json
+D:\Visual Studio 2019\Streams, Files and Directories\00.Demos\bin\Debug\netcoreapp3.1\00.Demos.dll
+D:\Visual Studio 2019\Streams, Files and Directories\00.Demos\bin\Debug\netcoreapp3.1\00.Demos.pdb
+D:\Visual Studio 2019\Streams, Files and Directories\00.Demos\obj\Debug\netcoreapp3.1\00.Demos.csproj.AssemblyReference.cache
+D:\Visual Studio 2019\Streams, Files and Directories\00.Demos\obj\Debug\netcoreapp3.1\00.Demos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2019\Streams, Files and Directories\00.Demos\obj\Debug\netcoreapp3.1\00.Demos.AssemblyInfoInputs.cache
+D:\Visual Studio 2019\Streams, Files and Directories\00.Demos\obj\Debug\netcoreapp3.1\00.Demos.AssemblyInfo.cs
+D:\Visual Studio 2019\Streams, Files and Directories\00.Demos\obj\Debug\netcoreapp3.1\00.Demos.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\Streams, Files and Directories\00.Demos\obj\Debug\netcoreapp3.1\00.Demos.dll
+D:\Visual Studio 2019\Streams, Files and Directories\00.Demos\obj\Debug\netcoreapp3.1\00.Demos.pdb
+D:\Visual Studio 2019\Streams, Files and Directories\00.Demos\obj\Debug\netcoreapp3.1\00.Demos.genruntimeconfig.cache
+D:\SoftUni-Advanced-2023\Streams, Files and Directories\00.Demos\obj\Debug\netcoreapp3.1\00.Demos.csproj.AssemblyReference.cache
+D:\SoftUni-Advanced-2023\Streams, Files and Directories\00.Demos\obj\Debug\netcoreapp3.1\00.Demos.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-Advanced-2023\Streams, Files and Directories\00.Demos\obj\Debug\netcoreapp3.1\00.Demos.AssemblyInfoInputs.cache
+D:\SoftUni-Advanced-2023\Streams, Files and Directories\00.Demos\obj\Debug\netcoreapp3.1\00.Demos.AssemblyInfo.cs
+D:\SoftUni-Advanced-2023\Streams, Files and Directories\00.Demos\obj\Debug\netcoreapp3.1\00.Demos.csproj.CoreCompileInputs.cache
+D:\SoftUni-Advanced-2023\Streams, Files and Directories\00.Demos\obj\Debug\netcoreapp3.1\00.Demos.dll
+D:\SoftUni-Advanced-2023\Streams, Files and Directories\00.Demos\obj\Debug\netcoreapp3.1\00.Demos.pdb

@@ -1,0 +1,16 @@
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\DefiningClass\bin\Debug\net5.0\DefiningClass.exe
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\DefiningClass\bin\Debug\net5.0\DefiningClass.deps.json
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\DefiningClass\bin\Debug\net5.0\DefiningClass.runtimeconfig.json
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\DefiningClass\bin\Debug\net5.0\DefiningClass.runtimeconfig.dev.json
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\DefiningClass\bin\Debug\net5.0\DefiningClass.dll
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\DefiningClass\bin\Debug\net5.0\ref\DefiningClass.dll
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\DefiningClass\bin\Debug\net5.0\DefiningClass.pdb
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\DefiningClass\obj\Debug\net5.0\DefiningClass.csproj.AssemblyReference.cache
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\DefiningClass\obj\Debug\net5.0\DefiningClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\DefiningClass\obj\Debug\net5.0\DefiningClass.AssemblyInfoInputs.cache
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\DefiningClass\obj\Debug\net5.0\DefiningClass.AssemblyInfo.cs
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\DefiningClass\obj\Debug\net5.0\DefiningClass.csproj.CoreCompileInputs.cache
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\DefiningClass\obj\Debug\net5.0\DefiningClass.dll
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\DefiningClass\obj\Debug\net5.0\ref\DefiningClass.dll
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\DefiningClass\obj\Debug\net5.0\DefiningClass.pdb
+D:\SoftUni-Advanced-2023\Defing Classes\BasicClassesDemo\DefiningClass\obj\Debug\net5.0\DefiningClass.genruntimeconfig.cache

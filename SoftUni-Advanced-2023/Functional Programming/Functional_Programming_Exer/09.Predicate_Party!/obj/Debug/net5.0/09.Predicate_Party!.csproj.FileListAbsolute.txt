@@ -1,0 +1,16 @@
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\09.Predicate_Party!\bin\Debug\net5.0\09.Predicate_Party!.exe
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\09.Predicate_Party!\bin\Debug\net5.0\09.Predicate_Party!.deps.json
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\09.Predicate_Party!\bin\Debug\net5.0\09.Predicate_Party!.runtimeconfig.json
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\09.Predicate_Party!\bin\Debug\net5.0\09.Predicate_Party!.runtimeconfig.dev.json
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\09.Predicate_Party!\bin\Debug\net5.0\09.Predicate_Party!.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\09.Predicate_Party!\bin\Debug\net5.0\ref\09.Predicate_Party!.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\09.Predicate_Party!\bin\Debug\net5.0\09.Predicate_Party!.pdb
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\09.Predicate_Party!\obj\Debug\net5.0\09.Predicate_Party!.csproj.AssemblyReference.cache
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\09.Predicate_Party!\obj\Debug\net5.0\09.Predicate_Party!.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\09.Predicate_Party!\obj\Debug\net5.0\09.Predicate_Party!.AssemblyInfoInputs.cache
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\09.Predicate_Party!\obj\Debug\net5.0\09.Predicate_Party!.AssemblyInfo.cs
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\09.Predicate_Party!\obj\Debug\net5.0\09.Predicate_Party!.csproj.CoreCompileInputs.cache
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\09.Predicate_Party!\obj\Debug\net5.0\09.Predicate_Party!.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\09.Predicate_Party!\obj\Debug\net5.0\ref\09.Predicate_Party!.dll
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\09.Predicate_Party!\obj\Debug\net5.0\09.Predicate_Party!.pdb
+D:\SoftUni-Advanced-2023\Functional Programming\Functional_Programming_Exer\09.Predicate_Party!\obj\Debug\net5.0\09.Predicate_Party!.genruntimeconfig.cache
