@@ -1,0 +1,16 @@
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\02.MultipleImplementation\obj\Debug\net5.0\02.MultipleImplementation.csproj.AssemblyReference.cache
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\02.MultipleImplementation\obj\Debug\net5.0\02.MultipleImplementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\02.MultipleImplementation\obj\Debug\net5.0\02.MultipleImplementation.AssemblyInfoInputs.cache
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\02.MultipleImplementation\obj\Debug\net5.0\02.MultipleImplementation.AssemblyInfo.cs
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\02.MultipleImplementation\obj\Debug\net5.0\02.MultipleImplementation.csproj.CoreCompileInputs.cache
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\02.MultipleImplementation\bin\Debug\net5.0\02.MultipleImplementation.exe
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\02.MultipleImplementation\bin\Debug\net5.0\02.MultipleImplementation.deps.json
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\02.MultipleImplementation\bin\Debug\net5.0\02.MultipleImplementation.runtimeconfig.json
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\02.MultipleImplementation\bin\Debug\net5.0\02.MultipleImplementation.runtimeconfig.dev.json
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\02.MultipleImplementation\bin\Debug\net5.0\02.MultipleImplementation.dll
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\02.MultipleImplementation\bin\Debug\net5.0\ref\02.MultipleImplementation.dll
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\02.MultipleImplementation\bin\Debug\net5.0\02.MultipleImplementation.pdb
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\02.MultipleImplementation\obj\Debug\net5.0\02.MultipleImplementation.dll
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\02.MultipleImplementation\obj\Debug\net5.0\ref\02.MultipleImplementation.dll
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\02.MultipleImplementation\obj\Debug\net5.0\02.MultipleImplementation.pdb
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\02.MultipleImplementation\obj\Debug\net5.0\02.MultipleImplementation.genruntimeconfig.cache

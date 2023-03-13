@@ -1,0 +1,16 @@
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Exer\06.Animals\bin\Debug\net5.0\06.Animals.exe
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Exer\06.Animals\bin\Debug\net5.0\06.Animals.deps.json
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Exer\06.Animals\bin\Debug\net5.0\06.Animals.runtimeconfig.json
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Exer\06.Animals\bin\Debug\net5.0\06.Animals.runtimeconfig.dev.json
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Exer\06.Animals\bin\Debug\net5.0\06.Animals.dll
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Exer\06.Animals\bin\Debug\net5.0\ref\06.Animals.dll
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Exer\06.Animals\bin\Debug\net5.0\06.Animals.pdb
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Exer\06.Animals\obj\Debug\net5.0\06.Animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Exer\06.Animals\obj\Debug\net5.0\06.Animals.AssemblyInfoInputs.cache
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Exer\06.Animals\obj\Debug\net5.0\06.Animals.AssemblyInfo.cs
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Exer\06.Animals\obj\Debug\net5.0\06.Animals.csproj.CoreCompileInputs.cache
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Exer\06.Animals\obj\Debug\net5.0\06.Animals.dll
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Exer\06.Animals\obj\Debug\net5.0\ref\06.Animals.dll
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Exer\06.Animals\obj\Debug\net5.0\06.Animals.pdb
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Exer\06.Animals\obj\Debug\net5.0\06.Animals.genruntimeconfig.cache
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Exer\06.Animals\obj\Debug\net5.0\06.Animals.csproj.AssemblyReference.cache

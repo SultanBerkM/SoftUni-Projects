@@ -1,0 +1,16 @@
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\03.Validation\bin\Debug\net5.0\03.Validation.exe
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\03.Validation\bin\Debug\net5.0\03.Validation.deps.json
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\03.Validation\bin\Debug\net5.0\03.Validation.runtimeconfig.json
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\03.Validation\bin\Debug\net5.0\03.Validation.runtimeconfig.dev.json
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\03.Validation\bin\Debug\net5.0\03.Validation.dll
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\03.Validation\bin\Debug\net5.0\ref\03.Validation.dll
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\03.Validation\bin\Debug\net5.0\03.Validation.pdb
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\03.Validation\obj\Debug\net5.0\03.Validation.csproj.AssemblyReference.cache
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\03.Validation\obj\Debug\net5.0\03.Validation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\03.Validation\obj\Debug\net5.0\03.Validation.AssemblyInfoInputs.cache
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\03.Validation\obj\Debug\net5.0\03.Validation.AssemblyInfo.cs
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\03.Validation\obj\Debug\net5.0\03.Validation.csproj.CoreCompileInputs.cache
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\03.Validation\obj\Debug\net5.0\03.Validation.dll
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\03.Validation\obj\Debug\net5.0\ref\03.Validation.dll
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\03.Validation\obj\Debug\net5.0\03.Validation.pdb
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\03.Validation\obj\Debug\net5.0\03.Validation.genruntimeconfig.cache

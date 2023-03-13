@@ -1,0 +1,16 @@
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Lab\02.Cars\bin\Debug\net5.0\02.Cars.exe
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Lab\02.Cars\bin\Debug\net5.0\02.Cars.deps.json
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Lab\02.Cars\bin\Debug\net5.0\02.Cars.runtimeconfig.json
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Lab\02.Cars\bin\Debug\net5.0\02.Cars.runtimeconfig.dev.json
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Lab\02.Cars\bin\Debug\net5.0\02.Cars.dll
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Lab\02.Cars\bin\Debug\net5.0\ref\02.Cars.dll
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Lab\02.Cars\bin\Debug\net5.0\02.Cars.pdb
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Lab\02.Cars\obj\Debug\net5.0\02.Cars.csproj.AssemblyReference.cache
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Lab\02.Cars\obj\Debug\net5.0\02.Cars.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Lab\02.Cars\obj\Debug\net5.0\02.Cars.AssemblyInfoInputs.cache
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Lab\02.Cars\obj\Debug\net5.0\02.Cars.AssemblyInfo.cs
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Lab\02.Cars\obj\Debug\net5.0\02.Cars.csproj.CoreCompileInputs.cache
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Lab\02.Cars\obj\Debug\net5.0\02.Cars.dll
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Lab\02.Cars\obj\Debug\net5.0\ref\02.Cars.dll
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Lab\02.Cars\obj\Debug\net5.0\02.Cars.pdb
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Lab\02.Cars\obj\Debug\net5.0\02.Cars.genruntimeconfig.cache

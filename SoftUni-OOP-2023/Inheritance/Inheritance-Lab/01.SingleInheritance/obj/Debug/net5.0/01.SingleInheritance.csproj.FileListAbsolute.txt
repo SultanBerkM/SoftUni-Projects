@@ -1,0 +1,16 @@
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\01.SingleInheritance\bin\Debug\net5.0\01.SingleInheritance.exe
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\01.SingleInheritance\bin\Debug\net5.0\01.SingleInheritance.deps.json
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\01.SingleInheritance\bin\Debug\net5.0\01.SingleInheritance.runtimeconfig.json
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\01.SingleInheritance\bin\Debug\net5.0\01.SingleInheritance.runtimeconfig.dev.json
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\01.SingleInheritance\bin\Debug\net5.0\01.SingleInheritance.dll
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\01.SingleInheritance\bin\Debug\net5.0\ref\01.SingleInheritance.dll
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\01.SingleInheritance\bin\Debug\net5.0\01.SingleInheritance.pdb
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\01.SingleInheritance\obj\Debug\net5.0\01.SingleInheritance.csproj.AssemblyReference.cache
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\01.SingleInheritance\obj\Debug\net5.0\01.SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\01.SingleInheritance\obj\Debug\net5.0\01.SingleInheritance.AssemblyInfoInputs.cache
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\01.SingleInheritance\obj\Debug\net5.0\01.SingleInheritance.AssemblyInfo.cs
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\01.SingleInheritance\obj\Debug\net5.0\01.SingleInheritance.csproj.CoreCompileInputs.cache
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\01.SingleInheritance\obj\Debug\net5.0\01.SingleInheritance.dll
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\01.SingleInheritance\obj\Debug\net5.0\ref\01.SingleInheritance.dll
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\01.SingleInheritance\obj\Debug\net5.0\01.SingleInheritance.pdb
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\01.SingleInheritance\obj\Debug\net5.0\01.SingleInheritance.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\04.RandomList\bin\Debug\net5.0\04.RandomList.exe
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\04.RandomList\bin\Debug\net5.0\04.RandomList.deps.json
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\04.RandomList\bin\Debug\net5.0\04.RandomList.runtimeconfig.json
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\04.RandomList\bin\Debug\net5.0\04.RandomList.runtimeconfig.dev.json
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\04.RandomList\bin\Debug\net5.0\04.RandomList.dll
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\04.RandomList\bin\Debug\net5.0\ref\04.RandomList.dll
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\04.RandomList\bin\Debug\net5.0\04.RandomList.pdb
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\04.RandomList\obj\Debug\net5.0\04.RandomList.csproj.AssemblyReference.cache
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\04.RandomList\obj\Debug\net5.0\04.RandomList.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\04.RandomList\obj\Debug\net5.0\04.RandomList.AssemblyInfoInputs.cache
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\04.RandomList\obj\Debug\net5.0\04.RandomList.AssemblyInfo.cs
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\04.RandomList\obj\Debug\net5.0\04.RandomList.csproj.CoreCompileInputs.cache
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\04.RandomList\obj\Debug\net5.0\04.RandomList.dll
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\04.RandomList\obj\Debug\net5.0\ref\04.RandomList.dll
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\04.RandomList\obj\Debug\net5.0\04.RandomList.pdb
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\04.RandomList\obj\Debug\net5.0\04.RandomList.genruntimeconfig.cache

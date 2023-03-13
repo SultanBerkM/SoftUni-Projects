@@ -1,0 +1,16 @@
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\net5.0\03.HierarchicalInheritance.exe
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\net5.0\03.HierarchicalInheritance.deps.json
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\net5.0\03.HierarchicalInheritance.runtimeconfig.json
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\net5.0\03.HierarchicalInheritance.runtimeconfig.dev.json
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\net5.0\03.HierarchicalInheritance.dll
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\net5.0\ref\03.HierarchicalInheritance.dll
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\net5.0\03.HierarchicalInheritance.pdb
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net5.0\03.HierarchicalInheritance.csproj.AssemblyReference.cache
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net5.0\03.HierarchicalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net5.0\03.HierarchicalInheritance.AssemblyInfoInputs.cache
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net5.0\03.HierarchicalInheritance.AssemblyInfo.cs
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net5.0\03.HierarchicalInheritance.csproj.CoreCompileInputs.cache
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net5.0\03.HierarchicalInheritance.dll
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net5.0\ref\03.HierarchicalInheritance.dll
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net5.0\03.HierarchicalInheritance.pdb
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\net5.0\03.HierarchicalInheritance.genruntimeconfig.cache

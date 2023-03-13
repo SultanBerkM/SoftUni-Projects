@@ -1,0 +1,15 @@
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\09.ExplicitInterfaces\bin\Debug\net5.0\09.ExplicitInterfaces.exe
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\09.ExplicitInterfaces\bin\Debug\net5.0\09.ExplicitInterfaces.deps.json
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\09.ExplicitInterfaces\bin\Debug\net5.0\09.ExplicitInterfaces.runtimeconfig.json
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\09.ExplicitInterfaces\bin\Debug\net5.0\09.ExplicitInterfaces.runtimeconfig.dev.json
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\09.ExplicitInterfaces\bin\Debug\net5.0\09.ExplicitInterfaces.dll
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\09.ExplicitInterfaces\bin\Debug\net5.0\ref\09.ExplicitInterfaces.dll
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\09.ExplicitInterfaces\bin\Debug\net5.0\09.ExplicitInterfaces.pdb
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\09.ExplicitInterfaces\obj\Debug\net5.0\09.ExplicitInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\09.ExplicitInterfaces\obj\Debug\net5.0\09.ExplicitInterfaces.AssemblyInfoInputs.cache
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\09.ExplicitInterfaces\obj\Debug\net5.0\09.ExplicitInterfaces.AssemblyInfo.cs
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\09.ExplicitInterfaces\obj\Debug\net5.0\09.ExplicitInterfaces.csproj.CoreCompileInputs.cache
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\09.ExplicitInterfaces\obj\Debug\net5.0\09.ExplicitInterfaces.dll
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\09.ExplicitInterfaces\obj\Debug\net5.0\ref\09.ExplicitInterfaces.dll
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\09.ExplicitInterfaces\obj\Debug\net5.0\09.ExplicitInterfaces.pdb
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Exer\09.ExplicitInterfaces\obj\Debug\net5.0\09.ExplicitInterfaces.genruntimeconfig.cache

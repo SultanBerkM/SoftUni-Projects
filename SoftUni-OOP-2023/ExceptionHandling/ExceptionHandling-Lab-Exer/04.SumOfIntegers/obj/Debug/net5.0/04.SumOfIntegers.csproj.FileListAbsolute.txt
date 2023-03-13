@@ -1,0 +1,16 @@
+D:\SoftUni-OOP-2023\ExceptionHandling\ExceptionHandling-Lab-Exer\04.SumOfIntegers\bin\Debug\net5.0\04.SumOfIntegers.exe
+D:\SoftUni-OOP-2023\ExceptionHandling\ExceptionHandling-Lab-Exer\04.SumOfIntegers\bin\Debug\net5.0\04.SumOfIntegers.deps.json
+D:\SoftUni-OOP-2023\ExceptionHandling\ExceptionHandling-Lab-Exer\04.SumOfIntegers\bin\Debug\net5.0\04.SumOfIntegers.runtimeconfig.json
+D:\SoftUni-OOP-2023\ExceptionHandling\ExceptionHandling-Lab-Exer\04.SumOfIntegers\bin\Debug\net5.0\04.SumOfIntegers.runtimeconfig.dev.json
+D:\SoftUni-OOP-2023\ExceptionHandling\ExceptionHandling-Lab-Exer\04.SumOfIntegers\bin\Debug\net5.0\04.SumOfIntegers.dll
+D:\SoftUni-OOP-2023\ExceptionHandling\ExceptionHandling-Lab-Exer\04.SumOfIntegers\bin\Debug\net5.0\ref\04.SumOfIntegers.dll
+D:\SoftUni-OOP-2023\ExceptionHandling\ExceptionHandling-Lab-Exer\04.SumOfIntegers\bin\Debug\net5.0\04.SumOfIntegers.pdb
+D:\SoftUni-OOP-2023\ExceptionHandling\ExceptionHandling-Lab-Exer\04.SumOfIntegers\obj\Debug\net5.0\04.SumOfIntegers.csproj.AssemblyReference.cache
+D:\SoftUni-OOP-2023\ExceptionHandling\ExceptionHandling-Lab-Exer\04.SumOfIntegers\obj\Debug\net5.0\04.SumOfIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-OOP-2023\ExceptionHandling\ExceptionHandling-Lab-Exer\04.SumOfIntegers\obj\Debug\net5.0\04.SumOfIntegers.AssemblyInfoInputs.cache
+D:\SoftUni-OOP-2023\ExceptionHandling\ExceptionHandling-Lab-Exer\04.SumOfIntegers\obj\Debug\net5.0\04.SumOfIntegers.AssemblyInfo.cs
+D:\SoftUni-OOP-2023\ExceptionHandling\ExceptionHandling-Lab-Exer\04.SumOfIntegers\obj\Debug\net5.0\04.SumOfIntegers.csproj.CoreCompileInputs.cache
+D:\SoftUni-OOP-2023\ExceptionHandling\ExceptionHandling-Lab-Exer\04.SumOfIntegers\obj\Debug\net5.0\04.SumOfIntegers.dll
+D:\SoftUni-OOP-2023\ExceptionHandling\ExceptionHandling-Lab-Exer\04.SumOfIntegers\obj\Debug\net5.0\ref\04.SumOfIntegers.dll
+D:\SoftUni-OOP-2023\ExceptionHandling\ExceptionHandling-Lab-Exer\04.SumOfIntegers\obj\Debug\net5.0\04.SumOfIntegers.pdb
+D:\SoftUni-OOP-2023\ExceptionHandling\ExceptionHandling-Lab-Exer\04.SumOfIntegers\obj\Debug\net5.0\04.SumOfIntegers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\4.FirstAndReserveTeam\bin\Debug\net5.0\4.FirstAndReserveTeam.exe
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\4.FirstAndReserveTeam\bin\Debug\net5.0\4.FirstAndReserveTeam.deps.json
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\4.FirstAndReserveTeam\bin\Debug\net5.0\4.FirstAndReserveTeam.runtimeconfig.json
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\4.FirstAndReserveTeam\bin\Debug\net5.0\4.FirstAndReserveTeam.runtimeconfig.dev.json
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\4.FirstAndReserveTeam\bin\Debug\net5.0\4.FirstAndReserveTeam.dll
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\4.FirstAndReserveTeam\bin\Debug\net5.0\ref\4.FirstAndReserveTeam.dll
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\4.FirstAndReserveTeam\bin\Debug\net5.0\4.FirstAndReserveTeam.pdb
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\4.FirstAndReserveTeam\obj\Debug\net5.0\4.FirstAndReserveTeam.csproj.AssemblyReference.cache
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\4.FirstAndReserveTeam\obj\Debug\net5.0\4.FirstAndReserveTeam.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\4.FirstAndReserveTeam\obj\Debug\net5.0\4.FirstAndReserveTeam.AssemblyInfoInputs.cache
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\4.FirstAndReserveTeam\obj\Debug\net5.0\4.FirstAndReserveTeam.AssemblyInfo.cs
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\4.FirstAndReserveTeam\obj\Debug\net5.0\4.FirstAndReserveTeam.csproj.CoreCompileInputs.cache
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\4.FirstAndReserveTeam\obj\Debug\net5.0\4.FirstAndReserveTeam.dll
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\4.FirstAndReserveTeam\obj\Debug\net5.0\ref\4.FirstAndReserveTeam.dll
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\4.FirstAndReserveTeam\obj\Debug\net5.0\4.FirstAndReserveTeam.pdb
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\4.FirstAndReserveTeam\obj\Debug\net5.0\4.FirstAndReserveTeam.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Demo00\WorkingCar\bin\Debug\net5.0\WorkingCar.exe
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Demo00\WorkingCar\bin\Debug\net5.0\WorkingCar.deps.json
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Demo00\WorkingCar\bin\Debug\net5.0\WorkingCar.runtimeconfig.json
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Demo00\WorkingCar\bin\Debug\net5.0\WorkingCar.runtimeconfig.dev.json
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Demo00\WorkingCar\bin\Debug\net5.0\WorkingCar.dll
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Demo00\WorkingCar\bin\Debug\net5.0\ref\WorkingCar.dll
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Demo00\WorkingCar\bin\Debug\net5.0\WorkingCar.pdb
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Demo00\WorkingCar\obj\Debug\net5.0\WorkingCar.csproj.AssemblyReference.cache
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Demo00\WorkingCar\obj\Debug\net5.0\WorkingCar.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Demo00\WorkingCar\obj\Debug\net5.0\WorkingCar.AssemblyInfoInputs.cache
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Demo00\WorkingCar\obj\Debug\net5.0\WorkingCar.AssemblyInfo.cs
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Demo00\WorkingCar\obj\Debug\net5.0\WorkingCar.csproj.CoreCompileInputs.cache
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Demo00\WorkingCar\obj\Debug\net5.0\WorkingCar.dll
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Demo00\WorkingCar\obj\Debug\net5.0\ref\WorkingCar.dll
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Demo00\WorkingCar\obj\Debug\net5.0\WorkingCar.pdb
+D:\SoftUni-OOP-2023\InterfacesAndAbstraction\InterfacesAndAbstraction_Demo00\WorkingCar\obj\Debug\net5.0\WorkingCar.genruntimeconfig.cache

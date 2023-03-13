@@ -1,0 +1,16 @@
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\01.SortPeopleByNameAndAge\bin\Debug\net5.0\01.SortPeopleByNameAndAge.exe
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\01.SortPeopleByNameAndAge\bin\Debug\net5.0\01.SortPeopleByNameAndAge.deps.json
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\01.SortPeopleByNameAndAge\bin\Debug\net5.0\01.SortPeopleByNameAndAge.runtimeconfig.json
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\01.SortPeopleByNameAndAge\bin\Debug\net5.0\01.SortPeopleByNameAndAge.runtimeconfig.dev.json
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\01.SortPeopleByNameAndAge\bin\Debug\net5.0\01.SortPeopleByNameAndAge.dll
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\01.SortPeopleByNameAndAge\bin\Debug\net5.0\ref\01.SortPeopleByNameAndAge.dll
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\01.SortPeopleByNameAndAge\bin\Debug\net5.0\01.SortPeopleByNameAndAge.pdb
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net5.0\01.SortPeopleByNameAndAge.csproj.AssemblyReference.cache
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net5.0\01.SortPeopleByNameAndAge.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net5.0\01.SortPeopleByNameAndAge.AssemblyInfoInputs.cache
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net5.0\01.SortPeopleByNameAndAge.AssemblyInfo.cs
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net5.0\01.SortPeopleByNameAndAge.csproj.CoreCompileInputs.cache
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net5.0\01.SortPeopleByNameAndAge.dll
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net5.0\ref\01.SortPeopleByNameAndAge.dll
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net5.0\01.SortPeopleByNameAndAge.pdb
+D:\SoftUni-OOP-2023\Encapsulation\Encapsulation-Lab\01.SortPeopleByNameAndAge\obj\Debug\net5.0\01.SortPeopleByNameAndAge.genruntimeconfig.cache

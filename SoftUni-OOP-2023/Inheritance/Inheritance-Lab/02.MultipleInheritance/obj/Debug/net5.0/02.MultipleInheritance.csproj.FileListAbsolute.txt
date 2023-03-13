@@ -1,0 +1,15 @@
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\02.MultipleInheritance\bin\Debug\net5.0\02.MultipleInheritance.exe
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\02.MultipleInheritance\bin\Debug\net5.0\02.MultipleInheritance.deps.json
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\02.MultipleInheritance\bin\Debug\net5.0\02.MultipleInheritance.runtimeconfig.json
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\02.MultipleInheritance\bin\Debug\net5.0\02.MultipleInheritance.runtimeconfig.dev.json
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\02.MultipleInheritance\bin\Debug\net5.0\02.MultipleInheritance.dll
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\02.MultipleInheritance\bin\Debug\net5.0\ref\02.MultipleInheritance.dll
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\02.MultipleInheritance\bin\Debug\net5.0\02.MultipleInheritance.pdb
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\02.MultipleInheritance\obj\Debug\net5.0\02.MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\02.MultipleInheritance\obj\Debug\net5.0\02.MultipleInheritance.AssemblyInfoInputs.cache
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\02.MultipleInheritance\obj\Debug\net5.0\02.MultipleInheritance.AssemblyInfo.cs
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\02.MultipleInheritance\obj\Debug\net5.0\02.MultipleInheritance.csproj.CoreCompileInputs.cache
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\02.MultipleInheritance\obj\Debug\net5.0\02.MultipleInheritance.dll
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\02.MultipleInheritance\obj\Debug\net5.0\ref\02.MultipleInheritance.dll
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\02.MultipleInheritance\obj\Debug\net5.0\02.MultipleInheritance.pdb
+D:\SoftUni-OOP-2023\Inheritance\Inheritance-Lab\02.MultipleInheritance\obj\Debug\net5.0\02.MultipleInheritance.genruntimeconfig.cache
